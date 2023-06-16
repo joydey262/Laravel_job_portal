@@ -1,0 +1,2 @@
+go:
+	write("Hello World").
